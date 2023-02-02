@@ -164,11 +164,11 @@ themeButton.addEventListener('click', () => {
 })
 
 // // Display an alert message indicating that the form submit functionality is not yet implemented 
-
+/*
 const form = document.querySelector(".contact__form");
 const button = form.querySelector(".button");
 
 button.addEventListener("click", function(event) {
     event.preventDefault();
     alert("La fonctionnalité de soumission de formulaire n'est pas encore implémentée mais vous pouvez toujours m'envoyer un mail à l'adresse wassimfayala2@gmail.com ");
-});
+}); */
